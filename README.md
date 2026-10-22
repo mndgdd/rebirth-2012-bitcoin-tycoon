@@ -31,4 +31,4 @@
 
 ## 下载
 
-[下载 APK v1.0.30](apk/rebirth2012-bitcoin-tycoon-v1.0.30.apk)
+[下载 APK v1.0.30](https://github.com/mndgdd/rebirth-2012-bitcoin-tycoon/raw/refs/heads/main/apk/rebirth2012-bitcoin-tycoon-v1.0.30.apk)
